@@ -8,6 +8,4 @@ dependencies:
   - pandas
   - python-igraph
   - statsmodels
-  - os
   - qgrid
-  - warnings
