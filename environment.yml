@@ -3,7 +3,7 @@ channels:
   - conda-forge
 dependencies:
   - numpy
-  - rpy2
+  - networkx
   - matplotlib
   - pandas
   - python-igraph
