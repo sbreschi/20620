@@ -1,0 +1,13 @@
+name: -basic-environment
+channels:
+  - conda-forge
+dependencies:
+  - numpy
+  - rpy2
+  - matplotlib
+  - pandas
+  - python-igraph
+  - statsmodels
+  - os
+  - qgrid
+  - warnings
